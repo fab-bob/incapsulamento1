@@ -24,6 +24,19 @@ public class Auto {
     public String getMarca() {
         return marca;
     }
+
+    public void setCilindrata(String cilindrata) {
+        this.cilindrata = cilindrata;
+    }
+
+    public void setMarca(String marca) {
+        this.marca = marca;
+    }
+
+    public void setModello(String modello) {
+        this.modello = modello;
+    }
+
     public String getModello() {
         return modello;
     }
